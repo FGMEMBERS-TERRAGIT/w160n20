@@ -268,3 +268,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.388416 22.000439 106.45 333
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.388076 22.000172 106.23 319.73
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.387857 22 106.08 318.84
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.38726 22.08634 187.46 213.02
+OBJECT_STATIC weeping_wall_falls1.xml -159.4951 22.0641 1233.66 0
+OBJECT_STATIC weeping_wall_falls1.xml -159.4943 22.0669 1110.44 20
+OBJECT_STATIC weeping_wall_falls2.xml -159.4909 22.0692 1060.2 225
+OBJECT_STATIC weeping_wall_falls2.xml -159.4891 22.07 1040.22 255
+OBJECT_STATIC weeping_wall_falls3.xml -159.4932 22.0678 1027.3 210
+OBJECT_STATIC weeping_wall_falls3.xml -159.4928 22.0688 1120.18 215
+OBJECT_STATIC weeping_wall_falls_minor.xml -159.4957 22.0647 1264.62 183
+OBJECT_STATIC weeping_wall_falls_minor.xml -159.4915 22.0693 1098.48 223
+OBJECT_STATIC weeping_wall_falls_minor.xml -159.4893 22.07 1051.43 255
