@@ -11,3 +11,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.646246 22.050742 468.97 133
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.645675 22.050329 450.88 140.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.643988 22.048929 410.08 138.82
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.642929 22.04809 361.98 139.48
+OBJECT_STATIC waipoo_falls.xml -159.6617 22.1043 904.64 0

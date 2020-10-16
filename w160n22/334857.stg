@@ -61,3 +61,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.502416 22.201715 8.61 8.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.501277 22.201887 7.99 9.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.501214 22.201897 8.28 11.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.500506 22.202054 8.73 13.11
+OBJECT_STATIC hanakapiai_falls.xml -159.595 22.1866 371.2 180
+OBJECT_STATIC hanakoa_falls_lower.xml -159.6165 22.1857 542.36 180
+OBJECT_STATIC hanakoa_falls_upper.xml -159.6158 22.1841 741.6 180
